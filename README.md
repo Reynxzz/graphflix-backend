@@ -52,6 +52,8 @@ Your backend API should now be running at [http://localhost:8000](http://localho
 
 ### Step 2: Set Up the Frontend
 
+Frontend Repository: https://github.com/Reynxzz/graphflix/tree/main
+
 1. **Create a new Next.js project** (if you haven't already)
 
 ```shellscript
